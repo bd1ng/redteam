@@ -1,7 +1,7 @@
 # redteam
 
 ## Overview
-This was a successful redteaming attempt, through the use of a series of prompts, to manipulate Gemini into generating talking points and social media content for far-right causes. These prompts effectively coaxed Gemini into generating strategies and specific propaganda material for far-right mobilization. Given the ability of LLMs to produce content at scale — and increasingly as part of other content generation workflows (e.g. language to visual media), this could have disastrous consequences. 
+This was a successful redteaming attempt, through the use of a series of prompts, to manipulate Gemini into generating talking points and social media content for far-right causes. These prompts effectively coaxed Gemini into generating strategies and specific propaganda material for far-right mobilization. Given the ability of LLMs to produce content at scale — and increasingly as part of other content generation workflows (e.g. language to visual media), this could have serious consequences. 
 
 ## Prompts
 The conversation was steered using the following series of prompts in consequtive order:
